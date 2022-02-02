@@ -204,6 +204,12 @@ Get started in seconds with our verified environments. Click each icon below for
 |Automatically track and visualize all your YOLOv5 training runs in the cloud with [Weights & Biases](https://wandb.ai/site?utm_campaign=repo_yolo_readme)|Label and export your custom datasets directly to YOLOv5 for training with [Roboflow](https://roboflow.com/?ref=ultralytics) |
 
 
+## <div align="center">Deployments</div>
+Automatically deploy a model in the form of scalable API using [Syndicai](https://syndicai.co) Platform.
+
+[![Syndicai-Deploy](https://raw.githubusercontent.com/syndicai/brand/main/button/deploy.svg)](https://syndicai.app/newModel?repository=https://github.com/marcin-laskowski/yolov5)
+
+
 <!-- ## <div align="center">Compete and Win</div>
 
 We are super excited about our first-ever Ultralytics YOLOv5 🚀 EXPORT Competition with **$10,000** in cash prizes!
