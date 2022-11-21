@@ -15,7 +15,7 @@ class PythonPredictor:
         """
 
         # Load a model from directory
-        self.model = torch.hub.load('nitish2mahajan/yolov5', 'yolov5s.pt', pretrained=True)
+        self.model = torch.hub.load('', 'yolov5s.pt', pretrained=True)
 
     def predict(self, payload):
         """
